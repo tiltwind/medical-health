@@ -42,22 +42,22 @@
 - PTH的分泌主要受血钙浓度的调节，血钙高时，PTH分泌减少，血钙低时，PTH分泌增加。血钙每变化1mg/dl，PTH浓度约变化100%，长期血钙过高或过低会导致甲状旁腺腺体缩小或加大(可大至5倍以上)。
 - 机体内钙磷代谢还受维生素D和降钙素的影响。降钙素由甲状腺内的腺泡旁细胞分泌，具有与PTH相反的作用。
 
-百度视频了解甲状旁腺: http://baike.baidu.com/l/VKAgkA9J
-
-甲状旁腺素（PTH）检测试剂: http://www.biodapoct.com/products/xxgjb/info_23.html, PTH和钙的浓度的检测对评价甲状旁腺功能亢进症。
+甲状旁腺相关视频:
+- [百度视频了解甲状旁腺](http://baike.baidu.com/l/VKAgkA9J)
+- [甲状旁腺素（PTH）检测试剂](http://www.biodapoct.com/products/xxgjb/info_23.html) , PTH和钙的浓度的检测对评价甲状旁腺功能亢进症。
 
 
 
 
 ## A. 参考
 
-- 百度百科: 甲状腺结节, https://baike.baidu.com/item/%E7%94%B2%E7%8A%B6%E8%85%BA%E7%BB%93%E8%8A%82/10441055
-- 百度百科-甲状旁腺, https://baike.baidu.com/item/%E7%94%B2%E7%8A%B6%E6%97%81%E8%85%BA/1142307
-- 甲状腺手术中甲状旁腺试纸鉴别甲状旁腺的应用, 2022, https://rs.yiigle.com/CN115396202202/1354008.htm
-- 南昌大学一附院首次使用术中快速检测甲状旁腺试纸, 2017, https://www.haodf.com/neirong/wenzhang/6958779984.html
-- 甲状旁腺手术过程, https://zhuanlan.zhihu.com/p/137844409
-- 甲状腺结节手术费用, https://www.zhihu.com/question/470492108
-- 甲状腺结节切除手术全过程记录, https://zhuanlan.zhihu.com/p/373629434
+- [百度百科: 甲状腺结节](https://baike.baidu.com/item/%E7%94%B2%E7%8A%B6%E8%85%BA%E7%BB%93%E8%8A%82/10441055)
+- [百度百科-甲状旁腺,](https://baike.baidu.com/item/%E7%94%B2%E7%8A%B6%E6%97%81%E8%85%BA/1142307)
+- [甲状腺手术中甲状旁腺试纸鉴别甲状旁腺的应用-2022](https://rs.yiigle.com/CN115396202202/1354008.htm)
+- [南昌大学一附院首次使用术中快速检测甲状旁腺试纸-2017](https://www.haodf.com/neirong/wenzhang/6958779984.html)
+- [甲状旁腺手术过程](https://zhuanlan.zhihu.com/p/137844409)
+- [甲状腺结节手术费用](https://www.zhihu.com/question/470492108)
+- [甲状腺结节切除手术全过程记录](https://zhuanlan.zhihu.com/p/373629434)
 
 
 
