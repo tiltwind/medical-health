@@ -27,12 +27,10 @@
 
 甲状腺细针抽吸活检已经确定为准确性很高的诊断方法。
 
-<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=u3339y1qr2n" allowFullScreen="true" width="300"></iframe>
+<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=u3339y1qr2n" allowFullScreen="true" width="500" height="500"></iframe>
 
 
 ## 甲状旁腺
-
-参考: 百度百科-甲状旁腺, https://baike.baidu.com/item/%E7%94%B2%E7%8A%B6%E6%97%81%E8%85%BA/1142307
 
 - 人体内分泌腺之一。
 - 人体有两对甲状旁腺，棕黄色，形似大豆，分别位于左右两叶甲状腺背面(或埋在其中)的中部和下部。
